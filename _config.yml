@@ -1,1 +1,11 @@
 theme: jekyll-theme-cayman
+
+# Site settings
+title: PeachIcetea29 Blog
+SEOTitle: 복숭아아이스티 | PeachIcetea Blog
+#header-img: img/home-bg.jpg
+#email: huxpro@gmail.com
+description: "Software Engineer"
+keyword: "Study"
+url: "https://peachicetea29.github.io"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
